@@ -1,0 +1,172 @@
+/*styling all the pages */
+*{Margin:0;padding:0}
+body{background:white}
+#pic2{margin:30px; margin-top:0; border-radius: 0 0 0 0}
+#pic3{margin:30px; margin-top:0;border-radius:0 0 0 0px; width:400px; height:200px;}
+	p{text-align:justify;}
+	
+	
+	/*styling page 2*/
+	.con1{width:100%; height:400px}
+	.con2{width:40%; height:600px; position:relative; float:left;
+	      margin-left:2%}	
+	.con3{width:30%; height:400px; position:relative; float:left;
+	        margin-left:3%}	
+
+		  
+	/*styling page 3*/
+	
+	.con5{width:90%; padding-left:5%;}
+	.con6{width:100%;}
+	.con7{width:25%; position:relative; float:left;  margin-left:5%;}
+	.con8{background:green; width:60%;  position:relative; float:right; margin-right:5%; text-align: justify; padding:12px ;color:white; border-radius:50px 0 0 50px;}
+	
+	/*navbar*/
+	
+	.navbar{background:red;}
+    .nav-link{color:white;}
+    #Tabactive{background:green;}
+
+    .RForm{width:40%; margin-left:100px;}
+	/*picbar*/
+	.picbar{width:100%;
+		
+	}
+	
+	.picbar{
+		text-align:center;
+		background:grey;
+		margin-top:4%;
+		width:90%;
+		height:150px;
+		}
+	.pic{
+		width:70px;
+		height:70px;
+	}
+	
+	.barpic1{
+		width:75px;
+		height:75px;
+		float:left;
+		margin:60px;
+		margin-top:17px;
+	}
+	
+	.para{width:50%;
+	height:400px;
+	text-align:justify;
+	margin-left:10%;
+	
+}
+
+.blood{
+	width:100%;
+	height:450px;
+
+}
+
+.types{
+	width:30%;
+	height:400px;
+	float:left;
+	margin-left:3%;
+}
+
+.host{
+	 height:350px;
+	
+	
+}
+
+.hostPic{
+	margin-right:5%;
+	margin-left:5%;
+	}
+
+/*styling page 5*/
+
+
+
+
+
+.Main{
+    width:40%;
+  float:left;
+    height:400px;
+    margin-left: 4%;
+}
+
+.max{
+    width:80%;
+    margin-left: 5%;
+}
+
+.container{
+    
+    height: 250px;
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    /* padding-left: 9%; */
+}
+
+.container1{
+    
+    height: 250px;
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    /* padding-left: 9%; */
+}	
+
+.reg{
+	width:100%;
+	height:200px;
+	background:red;
+	
+}
+	
+.reg2{
+	float:left;
+	margin-left:4%;
+	margin-top:4%;
+}
+
+.reg3{
+	width:100%;
+	height:200px;
+	background:pink;
+	
+}
+	
+.reg3{
+	float:left;
+	margin-left:4%;
+	margin-top:4%;
+}	
+	/*
+	.barpic2{
+		float:left;
+	}
+	.barpic3{
+		float:left;
+	}
+	.barpic4{
+		float:left;
+	}
+	.barpic5{
+		float:left;
+	}
+	.barpic6{
+		float:left;
+	}
+	.barpic7{
+		float:left;
+	}
+	
+	*/
+	
+	
+	
+
